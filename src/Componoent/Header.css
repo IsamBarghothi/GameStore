@@ -1,0 +1,15 @@
+h1{
+    font-size: 40px;
+}
+
+
+.head{
+    border: 5px solid #ffffff;
+    text-align: center;
+    font-weight: bold;
+    background-color: #282c34;
+    width: 50%;
+    color: white;
+    margin: auto;
+
+}
